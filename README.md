@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning blockchain.
 - 💞️ I’m looking to collaborate on smart contract.
-- 📫 How to reach me ...
+- 📫 How to reach me damacoon@gmail.com
 
 <!---
 HoiWeng/HoiWeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
